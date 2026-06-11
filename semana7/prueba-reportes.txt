@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes almacenados en memoria. Cada vez que se registra un reporte mediante POST, este se agrega al arreglo reportes y puede visualizarse al consultar nuevamente la ruta GET.
