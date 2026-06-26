@@ -1,0 +1,3 @@
+Durante esta semana comprendí la importancia de la seguridad operativa en las plataformas digitales y cómo las buenas prácticas ayudan a proteger la información y a los usuarios. Aprendí que el uso de contraseñas seguras, la correcta gestión de permisos y la protección de los datos son aspectos fundamentales para el funcionamiento responsable de cualquier sistema.
+
+También reflexioné sobre el valor de las tecnologías de código abierto, ya que permiten conocer cómo funcionan las herramientas, realizar mejoras de manera colaborativa y fortalecer la soberanía tecnológica de las comunidades. Estos conocimientos me permiten entender mejor el papel de la tecnología en la construcción de proyectos comunitarios más seguros, transparentes y sostenibles.

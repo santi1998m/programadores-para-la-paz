@@ -1,0 +1,3 @@
+Considero que la seguridad operativa es fundamental para proteger una plataforma comunitaria, ya que evita accesos no autorizados, pérdida de información y posibles ataques que afecten a los usuarios. El uso adecuado de credenciales seguras y la asignación correcta de permisos ayudan a proteger los datos y garantizan que cada persona acceda únicamente a la información que le corresponde.
+
+Además, las tecnologías de código abierto permiten comprender mejor cómo funciona una plataforma, auditar sus procesos y realizar mejoras de manera transparente. Esto fortalece la soberanía tecnológica de las comunidades, ya que les brinda mayor control sobre sus sistemas y aumenta la confianza de los usuarios al saber que la información se gestiona de forma responsable y segura.
